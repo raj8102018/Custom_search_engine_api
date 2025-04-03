@@ -1,0 +1,7 @@
+langchain_google_genai
+httpx
+langchain
+langchain_community
+dspy
+fastapi
+uvicorn

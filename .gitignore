@@ -1,0 +1,6 @@
+my_env/
+.env
+template.txt
+__pycache__/
+.ipynb_checkpoints
+*.ipynb
